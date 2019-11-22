@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (5.10.1):
+    - Kingfisher/Core (= 5.10.1)
+  - Kingfisher/Core (5.10.1)
+  - RxAlamofire (5.1.0):
+    - RxAlamofire/Core (= 5.1.0)
+  - RxAlamofire/Core (5.1.0):
+    - Alamofire (~> 4.8)
+    - RxSwift (~> 5.0)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - Toaster (2.2.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - RxAlamofire
+  - RxCocoa (~> 5)
+  - RxSwift (~> 5)
+  - Toaster
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - RxAlamofire
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - Toaster
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: eb36b7dfcc78d60877051c92c119a2865972961a
+  RxAlamofire: a2d7621de4c23a0c6e7b476b504acc32838ee341
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  Toaster: c1a81b376edcc2470157b4d1ee1e9341d3b96455
+
+PODFILE CHECKSUM: dfa7466e6fa2f9fc7c09bd69ae8f7591d61c1296
+
+COCOAPODS: 1.8.4
